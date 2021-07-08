@@ -2,6 +2,11 @@
 
 ## Latest Version v1.0.0 
 
+## Invest in Arup Projects
+[26240 Useful Plugins for Structural Analysis Softwares](https://invest.arup.com/?layout=projsheet&projid=26240&tab=projsheetdetailstabpage0)
+
+[29152 Useful Plugins for Structural Analysis Softwares Part 2](https://invest.arup.com/?layout=projsheet&projid=29152&tab=projsheetcommentstabpage0)
+
 ## License 
 
 Compatible with ETABS 18 and newer versions
@@ -17,6 +22,10 @@ In order to use these plugins you will need to add them by using "Add/Show Plugi
 ![Add_show_plugins](./Docs/Add_show_plugins.png.png)
 
 ![Browse_Etabs_Main_dll](./Docs/images/Browse_Etabs_Main_dll.png)
+
+## Main Interface
+
+![Main_interface](./Docs/images/Main_interface.png)
 
 ## Bug reporting
 
