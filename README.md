@@ -21,11 +21,11 @@ In order to use these plugins you will need to add them by using "Add/Show Plugi
 
 ![Add_show_plugins](./Docs/Add_show_plugins.png.png)
 
-![Browse_Etabs_Main_dll](./Docs/images/Browse_Etabs_Main_dll.png)
+![Browse_Etabs_Main_dll](./Docs/Browse_Etabs_Main_dll.png)
 
 ## Main Interface
 
-![Main_interface](./Docs/images/Main_interface.png)
+![Main_interface](./Docs/Main_interface.png)
 
 ## Bug reporting
 
