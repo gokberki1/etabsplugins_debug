@@ -19,7 +19,7 @@ To use the plugins you can download the latest release from the [releases sectio
 
 In order to use these plugins you will need to add them by using "Add/Show Plugins" option under "Tools" main menu. Status should be "OK".
 
-![Add_show_plugins](./Docs/Add_show_plugins.png.png)
+![Add_show_plugins](./Docs/Add_show_plugins.png)
 
 ![Browse_Etabs_Main_dll](./Docs/Browse_Etabs_Main_dll.png)
 
